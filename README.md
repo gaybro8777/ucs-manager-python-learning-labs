@@ -2,7 +2,7 @@
 
 These self-paced interactive tutorials provide instructions for developers to use the Python SDK for UCS Manager. The UCS Python SDK is a set of Python modules, each containing one or more classes, developed specifically to automate UCS Manager.
 
-Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -12,7 +12,7 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-The UCS Python SDK is a great way to automate UCS manager tasks. A special function, `convert_to_ucs_python()` enables automatic Python script generation from operations performed in the UCS Manager GUI. Use the SDK to quickly script UCS tasks for automation purposes and efficiency gains. 
+The UCS Python SDK is a great way to automate UCS manager tasks. A special function, `convert_to_ucs_python()` enables automatic Python script generation from operations performed in the UCS Manager GUI. Use the SDK to quickly script UCS tasks for automation purposes and efficiency gains.
 
 ## Contributing
 
@@ -33,7 +33,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 #### Editors
 
-You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
+You can write Markdown in a plain text editor, and desktop and Web-based options allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
 - Lightweight environment for coding (or writing Markdown)
 - Available on Mac OS, Linux or Windows
 - Github Client integration
