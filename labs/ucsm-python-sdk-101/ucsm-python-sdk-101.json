@@ -12,9 +12,11 @@
         "title": "UCS"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "Introduction to UCS Python SDK Part I: Cisco DevNet Learning Labs",
+        "files": "1.md",
     }, {
-        "title": "2.md"
+        "title": "Exercise 1e - Connecting / Disconnecting from UCS Manager",
+        "file": "2.md"
     }],
     "related": [{
         "labId": "ucsm-python-sdk-102",
