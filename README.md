@@ -2,7 +2,7 @@
 
 These self-paced interactive tutorials provide instructions for developers to use the Python SDK for UCS Manager. The UCS Python SDK is a set of Python modules, each containing one or more classes, developed specifically to automate UCS Manager.
 
-Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -12,7 +12,9 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-The UCS Python SDK is a great way to automate UCS manager tasks. A special function, `convert_to_ucs_python()` enables automatic Python script generation from operations performed in the UCS Manager GUI. Use the SDK to quickly script UCS tasks for automation purposes and efficiency gains. 
+The UCS Python SDK is a great way to automate UCS manager tasks. A special function, `convert_to_ucs_python()` enables automatic Python script generation from operations performed in the UCS Manager GUI. Use the SDK to quickly script UCS tasks for automation purposes and efficiency gains.
+
+If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
 
 ## Contributing
 
@@ -34,11 +36,11 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 #### Editors
 
 You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
-- Lightweight environment for coding (or writing Markdown)
-- Available on Mac OS, Linux or Windows
-- Github Client integration
-- Great Markdown preview features native in the editor
-- Intuitive operation and structure
+- Lightweight environment for coding (or writing Markdown).
+- Available on Mac OS, Linux or Windows.
+- Github Client integration.
+- Great Markdown preview features native in the editor.
+- Intuitive operation and structure.
 
 You can validate a JSON file by using the [online formatter and validator](https://jsonformatter.curiousconcept.com).
 
